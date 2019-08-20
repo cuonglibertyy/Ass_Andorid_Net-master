@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Latest" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/category"
+            android:title="Category" />
+        <item
+            android:id="@+id/nav_gif"
+            android:icon="@drawable/gifs"
+            android:title="GIFs" />
+        <item
+            android:id="@+id/nav_favarite"
+            android:icon="@drawable/favorites"
+            android:title="My Favorites" />
+        <item
+            android:id="@+id/nav_rateapp"
+            android:icon="@drawable/rateapp"
+            android:title="Rate App" />
+        <item
+            android:id="@+id/nav_moreapp"
+            android:icon="@drawable/moreapp"
+            android:title="More App" />
+        <item
+            android:id="@+id/nav_aboutapp"
+            android:icon="@drawable/about"
+            android:title="About US" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/seting"
+            android:title="Setting" />
+        <item
+            android:id="@+id/nav_primary"
+            android:icon="@drawable/police"
+            android:title="Primary Police" />
+    </group>
+
+</menu>

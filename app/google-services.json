@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552495461893",
+    "firebase_url": "https://assandoridnet-master.firebaseio.com",
+    "project_id": "assandoridnet-master",
+    "storage_bucket": "assandoridnet-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552495461893:android:1eeb8db5d757f4ce",
+        "android_client_info": {
+          "package_name": "com.example.ass_andorid_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552495461893-6uggc2344dhg8s9kubqdmva14j85ra2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ass_andorid_net",
+            "certificate_hash": "39b8550a22203f6248da9543c58bd6c665cfd990"
+          }
+        },
+        {
+          "client_id": "552495461893-tl674jq38lcmmi08fpjmcd74eqqqt1b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgllEG2nqxKW5miqWxhs_4W9MTTDsAtys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552495461893-tl674jq38lcmmi08fpjmcd74eqqqt1b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
